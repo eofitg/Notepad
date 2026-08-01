@@ -1,6 +1,6 @@
 # Notepad
 
-I's rather trade this as a casual & personalized freeland.
+I's rather treat this as a casual & personalized freeland.
 
 ### Jump to
 
