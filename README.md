@@ -12,7 +12,7 @@ I'd rather treat this as a casual & personalized freeland.
 - `skb/bingo` 
   - maybe i'll write something about the programming and routes, not that frequently i believe tho
 - `skb/patch-log`
-  - obviously only things im cared abt, and so no catas ofc
+  - obviously only things im cared abt, and so no catacombs ofc
 - ~~this sh*t is not for filling my contribution table i swear~~
 
 ---
