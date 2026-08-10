@@ -2,11 +2,12 @@
 
 > _I'd rather treat this as a casual & personalized freeland. ——eofitg 2026.Aug.10_
 
-Including
+### Including
+
 - I did/wrote in recent years
-- planning/programming in the few years
-- random documents seem meaningless
-- pure memorandum chores
+- Planning/programming in the few years
+- Random documents seem meaningless
+- Pure memorandum chores
 
 ### Jump to
 
