@@ -50,7 +50,7 @@ _they want to save this armor, but it's still..._
 - Rarer Sea Creatures can now even drop Veilshroom Bunches directly!
 - Adjusted Hunter Jean's menu to use mob skulls instead of items
 - _**Adjusted how End Stone Protector shard is obtained:**_
-  - Now awarded to to all players with 240+ weight
+  - Now awarded to all players with 240+ weight
 - **_Adjusted Frog Pet, re-ordering its perks and revamping "Hunting Enjoyer" to specifically work on Water Shards_**
 - Adjusted some Chapter tasks:
   - Moved “Obtain Ruby Veilshrooms” from Chapter 3 → 4 
