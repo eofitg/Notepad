@@ -28,4 +28,4 @@
 
 ---
 
-###### *all rights reserved by [eofitg](https://github.com/eofitg/)*
+###### *Unless otherwise stated, all written content is copyrighted by [eofitg](https://github.com/eofitg/)*
