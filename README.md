@@ -16,6 +16,8 @@
   - [latest-skb-patch-notes](skb/patch-log/26.8/Hotfixes%20&%20Adjustments.md)
 - Alice
   - [last-edit](Alice's%20Adventures%20in%20Wonderland/Chapter_1:_Down_the_rabbit-hole.md)
+- [课程笔记](四方/课程笔记)
+  - [商业银行经营学](四方/课程笔记/商业银行经营学)
 
 ### Notes
 
