@@ -1,0 +1,6 @@
+- Fixed Powder resetting and temporarily being negative when reaching the 2 billion cap
+- Fixed Mass Syphon causing repeat previous fusion to bypass fusion requirements
+- Fixed Moonflowers in Greenhouse not providing Farming Tool EXP
+- Fixed the expired pumpkin button missing in Carrolyn's menu
+- Fixed being unable to pick up Candy with a full Trick or Treat Bag – _whatever festival sack is still kinda hard to obtain_
+- Fixed the Wardrobe being unlocked for players under SkyBlock Level 5 – _whatever_
