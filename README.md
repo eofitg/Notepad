@@ -13,7 +13,7 @@
 
 - Skb
   - [latest-skb-bingo](skb/bingo/2026.10.md)
-  - [latest-skb-patch-notes](skb/patch-log/26.10/0.27.2.md)
+  - [latest-skb-patch-notes](skb/patch-log/26.10)
 - Alice
   - [last-edit](Alice's%20Adventures%20in%20Wonderland/Chapter_1:_Down_the_rabbit-hole.md)
 - [课程笔记](四方/课程笔记)
