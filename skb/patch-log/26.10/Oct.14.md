@@ -1,0 +1,24 @@
+- Increased Glossy Gemstone drop rates:
+  - Breaking Power 6: 0.06% -> 0.12% 
+  - Breaking Power 7: 0.07% -> 0.14% 
+  - Breaking Power 8: 0.08% -> 0.16% 
+  - Breaking Power 9: 0.09% -> 0.18%
+- Increased Refined Mineral drop rates:
+  - Breaking Power 1: 0.01% -> 0.02% 
+  - Breaking Power 2: 0.02% -> 0.04% 
+  - Breaking Power 3: 0.03% -> 0.06% 
+  - Breaking Power 4: 0.04% -> 0.08% 
+  - Breaking Power 5: 0.05% -> 0.1% 
+  - Breaking Power 6: 0.06% -> 0.12% 
+  - Breaking Power 7: 0.07% -> 0.14% 
+  - Breaking Power 8: 0.08% -> 0.16% 
+  - Breaking Power 9: 0.09% -> 0.18%
+- Scatha Shard now has its effects doubled if you have a Fiesta Flask active
+- Stoneworm Shard now has its effects doubled if you have a Fiesta Flask active
+- Added additional buffs to the Fiesta Flask: – _this one is prob worth it now but still kinda expensive... tbh I don't like those money based boosters_
+  - +100% chance of finding Refined Minerals.
+  - +100% chance of finding Glossy Gemstones.
+- Fixed favorite Fishing Bait resetting when switching Loadouts – _good_
+- Added a toggle for Weather Audio & Visuals directly in the Weather Menu
+- Scheduled the Great Spook to be active from today at ~12pm EDT to Nov. 2nd at ~12pm EDT 
+  - Sewer Fish can now be fished up in the Hub Sewer zone instead of Dungeons.
