@@ -1,6 +1,6 @@
 Mac Terminal 编译运行 C/C++ 程序
 
-```
+```shell
 /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake --build /Users/erou/CLionProjects/Algorithm/cmake-build-debug --target Algorithm -j 10
 [1/2] Building CXX object CMakeFiles/Algorithm.dir/main.cpp.o
 FAILED: CMakeFiles/Algorithm.dir/main.cpp.o 
