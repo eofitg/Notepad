@@ -16,7 +16,7 @@
   - [latest-skb-bingo](skb/bingo/2026.10.md)
   - [latest-skb-patch-notes](skb/patch-log/latest.md)
 - Srchan
-  - [快速排序讲解](./srchan/快速排序讲解.md) | [可配合 LargestProduct 使用](./mubu/我的文档/Algorithm/LargestProduct.md)
+  - [快速排序讲解](./srchan/快速排序讲解.md) – *[附LargestProduct](./mubu/我的文档/Algorithm/LargestProduct.md)*
   - [星星之火可以燎原](./srchan/星星之火可以燎原.md)
 - Alice
   - [last-edit](Alice's%20Adventures%20in%20Wonderland/Chapter-1:-Down-the-rabbit-hole.md)
