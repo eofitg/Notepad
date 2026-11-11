@@ -25,6 +25,7 @@
   - [公司金融](四方/课程笔记/公司金融)
   - [国际贸易实务](四方/课程笔记/国际贸易实务)
 - [codes | 代码备忘录](codes)
+  - [latex 进阶语法](codes/latex.md)
 - [chores | 杂项](chores)
 
 ### Notes
