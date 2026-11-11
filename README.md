@@ -16,9 +16,9 @@
   - [latest-skb-patch-notes](skb/patch-log/26.10)
 - Alice
   - [last-edit](Alice's%20Adventures%20in%20Wonderland/Chapter_1:_Down_the_rabbit-hole.md)
-- [codes | 代码备忘录](codes)
+- [codes - 代码备忘录](codes)
   - [latex 进阶语法](codes/latex.md)
-- [chores | 杂项](chores)
+- [chores - 杂项](chores)
 
 ### Notes
 
