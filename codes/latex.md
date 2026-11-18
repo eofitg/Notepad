@@ -20,7 +20,11 @@ Line 2
 \end{matrix}\right.
 ```
 
-$`X= \left\{\begin{matrix} Line 1\\ Line 2 \end{matrix}\right.`$
+$X=
+\left\{\begin{matrix}
+Line 1\\
+Line 2
+\end{matrix}\right.$
 
 ### 双括号包裹矩阵
 
@@ -31,8 +35,8 @@ Line 2
 \end{pmatrix}
 ```
 
-$`
+$
 \begin{pmatrix}
 Line 1\\
 Line 2
-\end{pmatrix}`$
+\end{pmatrix}$
