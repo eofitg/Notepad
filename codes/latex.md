@@ -2,6 +2,8 @@
 
 `\bold{}` 或许能用，但不是适配性最好的方案
 
+### 无限 `\infty`
+
 ### 被圈的文本 `\textcircled{}`
 
 ```markdown
