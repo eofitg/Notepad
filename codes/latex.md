@@ -12,9 +12,15 @@
 {\large{\textcircled{\small{1}}}} {\LARGE{\textcircled{\small{999}}}}
 ```
 
-$\textcircled{\small 1}$ – _有些渲染器可能不支持_
+$\textcircled{\small 1}$
 
 通过 `\footnotesize`、`\scriptsize`、`\tiny`，`\Large`、`\LARGE`、`\huge` 等关键字可以修改圆圈和文本大小
+
+但这种方法许多渲染器都不支持，大多数情况还是用 `unicode` 好了
+
+```text
+① ② ③ ④ ⑤ ⑥ ⑦ ⑧ ⑨ ⓪
+```
 
 ### 左向大括号
 
