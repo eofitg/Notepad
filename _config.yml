@@ -1,0 +1,25 @@
+remote_theme: just-the-docs/just-the-docs
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+title: Notepad
+description: d(•̀ ᵕ •́)人(ᵔᵕᵔ )
+url: https://eofitg.github.io
+baseurl: /Notepad
+
+search_enabled: true
+
+heading_anchors: true
+
+color_scheme: dark
+
+nav_enabled: false
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: mathjax
